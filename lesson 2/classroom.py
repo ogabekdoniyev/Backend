@@ -1,2 +1,5 @@
 #Django 
-#python
+#python 
+
+print("Hello word !")
+print("Goodby World!")
